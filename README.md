@@ -11,3 +11,5 @@ To use this bot:
 - type S to start the bot and enjoy :)
 ---
 > Side note: Make sure the locations you choose are close to each other so the bot can catch up while mining
+
+Any questions please feel free to contact me on Instagram, **[@spooky_sec](https://instagram.com/spooky_sec)**
